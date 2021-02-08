@@ -347,6 +347,7 @@ html, body {
 
   h1 {
     @extend %header-font;
+    color: $color-talentview-alt;
     font-size: 25px;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
